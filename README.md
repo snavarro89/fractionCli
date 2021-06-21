@@ -11,7 +11,7 @@ git clone https://github.com/snavarro89/fractionCli
 
 Build on desired platform
 
-env GOOS=darwin GOARCH=amd64 go build -o bin/cli   //OS X
+env GOOS=darwin GOARCH=amd64 go build -o bin/cli   --> For OS X
 
 bin/cli [operations]
 
